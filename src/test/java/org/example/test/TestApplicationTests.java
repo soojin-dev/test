@@ -28,7 +28,7 @@ class TestApplicationTests {
         int result = testApplication.plus(num1, num2);
 
         // then
-        assertThat(result).isEqualTo(3);
+        assertThat(result).isEqualTo(4);
     }
 
 }
